@@ -3,6 +3,8 @@ defmodule JiuJitsu.Grips do
   def monkey(attacker), do: attacker
   def monkey(), do: :monkey
   def pledge_of_allegiance(attacker), do: attacker
+  def s(attacker), do: attacker
+  def s(), do: :s
   def swim(attacker), do: attacker
   def swim(), do: :swim
   def wrist(attacker), do: attacker
